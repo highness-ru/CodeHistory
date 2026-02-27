@@ -1,0 +1,18 @@
+//
+//  BottomTextView.swift
+//  CodeHistory
+//
+//  Created by Анна Герман on 27.02.2026.
+//
+
+import SwiftUI
+
+struct BottomTextView: View {
+    var body: some View {
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+    }
+}
+
+#Preview {
+    BottomTextView()
+}
